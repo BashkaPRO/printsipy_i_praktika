@@ -1,5 +1,4 @@
 #define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS
-
 #include "std_lib_facilities.h" 
 
 int main()
